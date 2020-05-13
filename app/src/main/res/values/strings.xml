@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">УПС Закони</string>
+    <string name="prekrsoci">НАЈЧЕСТИ ПРЕКРШОЦИ</string>
+    <string name="krivicni_dela">НАЈЧЕСТИ К.Д.</string>
+    <string name="zakoni">ЗАКОНИ</string>
+    <string name="uredbi">УРЕДБИ</string>
+
+    <string name="krivicniTitle">Кривични дела</string>
+    <string name="prekrsociTitle">Прекршоци</string>
+    <string name="kategorii">Категории</string>
+</resources>

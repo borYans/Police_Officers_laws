@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1047867798953",
+    "firebase_url": "https://zakoni.firebaseio.com",
+    "project_id": "zakoni",
+    "storage_bucket": "zakoni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047867798953:android:c770aa6ccffdab29a6c0b8",
+        "android_client_info": {
+          "package_name": "com.upszakoni.zakoni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047867798953-s1h18bt94hpudtcs4a3uefgb7gj0n25q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upszakoni.zakoni",
+            "certificate_hash": "4121aa9c7f21b242a5bd53e5cd883def57c4c464"
+          }
+        },
+        {
+          "client_id": "1047867798953-fsn3d59n3cdce3crv8t0fbmo0na7upv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj-mOsf9uVYYeRvbtyL6oNbolycRIePtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047867798953-fsn3d59n3cdce3crv8t0fbmo0na7upv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
